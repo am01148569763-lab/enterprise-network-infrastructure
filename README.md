@@ -1,8 +1,7 @@
 # Enterprise Network Design & Scalable Infrastructure Implementation
 
 ## 🌐 Network Topology Diagram
-*(To display your image here, upload the 'na1.jpg' file to this repository using the 'Add file' -> 'Upload files' button at the top)*
-
+![Network Topology](na1.jpg)
 ---
 
 ## 📝 Project Overview
